@@ -1,0 +1,22 @@
+.nav {
+  width: 90%;
+  margin-left: 15px;
+  margin-right: 15px;
+  display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    align-items: center;
+}
+
+.nav-div_1 {
+  font-size: 18px;
+}
+.nav-div_2 ul {
+  display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.nav-div_2 li {
+  list-style: none;
+}
