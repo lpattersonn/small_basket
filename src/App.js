@@ -1,15 +1,23 @@
 import "./App.css";
-import Nav from "./components/Nav.js";
-import Header from "./components/Header.js";
-import Body from "./components/Body.js"
+import {
+  BrowserRouter as Router,
+  Routes,
+  Route,
+  Switch,
+  Link,
+} from "react-router-dom";
+import UserSide from "./components/UserSide.js"
+import GrocerySide from "./components/grocer-side/GrocerySide.js";
 
 function App() {
   return (
-    <div className="App">
-      <Nav />
-      <Header />
-      <Body />
-    </div>
+    // Routes
+    <Router>
+      <Routes>
+        <Route path="/" element={<UserSide />} />
+        <Route path="/groceryside" element={<GrocerySide />} />
+      </Routes>
+    </Router>
   );
 }
 

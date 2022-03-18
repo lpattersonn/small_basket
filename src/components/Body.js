@@ -1,7 +1,7 @@
 import React from "react";
 import "../style/Body.css";
 
-export default function Body() {
+export default function Body(props) {
   return (
     <section className="body-div_1">
       <div className="body-div_2">
