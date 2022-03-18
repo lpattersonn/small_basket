@@ -1,21 +1,23 @@
+/* body-div */
 .body-div_1 {
   background-color: white;
   width: 100%;
   display: flex;
   justify-content: center;
+  align-items: center;
   flex-direction: column;
   margin-top: 60px;
   margin-bottom: 60px;
 }
 
 .body-div_2 {
-  background-color: #C4C4C4;
+  background-color: #c4c4c4;
   width: 80%;
   height: 103px;
   display: flex;
   justify-content: space-between;
   align-items: center;
-    flex-direction: row;
+  flex-direction: row;
 }
 
 .button-body {
@@ -31,6 +33,90 @@
   margin-left: 60px;
 }
 
+/* body-process */
 .body-process {
+  width: 80%;
+  height: 650px;
+  margin-top: 60px;
+  background-color: #c4c4c4;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
 
+.body-process_image {
+  width: 452px;
+  height: 434px;
+  background-color: #848484;
+  margin-right: 60px;
+}
+
+.body-process_text {
+  font-size: 20px;
+  margin-bottom: 550px;
+  margin-left: 60px;
+}
+
+/* body-whoweare */
+.body-whoweare_image {
+  width: 452px;
+  height: 434px;
+  background-color: #848484;
+  margin-left: 60px;
+}
+
+.body-whoweare_text {
+  font-size: 20px;
+  margin-bottom: 550px;
+  margin-right: 290px;
+}
+
+.body-whoweare_text h2 {
+  width: 200px;
+  margin-left: 20px;
+}
+
+/* body-stats */
+.body-stats {
+  width: 80%;
+  height: 423px;
+  margin-top: 60px;
+  background-color: #c4c4c4;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.body-stats_food {
+  margin-left: 250px;
+}
+
+.body-stats_money {
+  margin-right: 250px;
+}
+
+.Faicon {
+  width: 130px;
+  height: 130px;
+}
+
+/* body-download */
+.body-downlaod {
+  background-color: #c4c4c4;
+  margin-top: 60px;
+  width: 80%;
+  height: 103px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+}
+
+.body-downlaod_button {
+  border: none;
+  background-color: #848484;
+  margin-left: 20px;
+  width: 232px;
+  height: 48px;
+  border-radius: 25px;
 }

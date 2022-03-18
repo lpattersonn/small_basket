@@ -1,20 +1,21 @@
 .header-div_1 {
   width: 100%;
-  height: 857px;
-  background-color: #C4C4C4;
+  height: 550px;
+  background-color: #c4c4c4;
   display: flex;
   justify-content: space-between;
-    flex-direction: row;
-    align-items: center;
+  flex-direction: row;
+  align-items: center;
 }
 .header-div_2 {
   margin-left: 90px;
 }
 
 .header-div_3 {
+  text-transform: uppercase;
   font-size: 24px;
   display: flex;
-    flex-direction: column;
+  flex-direction: column;
 }
 
 .header-div_4 {
@@ -30,4 +31,10 @@
   width: 232px;
   height: 48px;
   border-radius: 25px;
+}
+
+.header-div_2,
+.header-div_4 {
+  margin-top: -30px;
+  margin-bottom: -30px;
 }
