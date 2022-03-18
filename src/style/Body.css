@@ -1,0 +1,36 @@
+.body-div_1 {
+  background-color: white;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  margin-top: 60px;
+  margin-bottom: 60px;
+}
+
+.body-div_2 {
+  background-color: #C4C4C4;
+  width: 80%;
+  height: 103px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+    flex-direction: row;
+}
+
+.button-body {
+  background-color: #848484;
+  border: none;
+  margin-right: 30px;
+  width: 232px;
+  height: 48px;
+  border-radius: 25px;
+}
+
+.h2 {
+  margin-left: 60px;
+}
+
+.body-process {
+
+}

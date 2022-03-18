@@ -8,7 +8,7 @@
     align-items: center;
 }
 .header-div_2 {
-  margin-left: 60px;
+  margin-left: 90px;
 }
 
 .header-div_3 {
@@ -18,13 +18,14 @@
 }
 
 .header-div_4 {
-  margin-right: 60px;
+  margin-right: 90px;
   width: 621px;
   height: 421px;
   background-color: #848484;
 }
 
 .button {
+  border: none;
   background-color: #848484;
   width: 232px;
   height: 48px;
