@@ -1,0 +1,35 @@
+/* body-div */
+.grocery_side-body-div_1 {
+  background-color: white;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin-top: 60px;
+  margin-bottom: 60px;
+}
+
+/* body-process */
+.grocery_side-body-process {
+  width: 80%;
+  height: 650px;
+  margin-top: 60px;
+  background-color: #c4c4c4;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.grocery_side-body-process_image {
+  width: 452px;
+  height: 434px;
+  background-color: #848484;
+  margin-right: 60px;
+}
+
+.grocery_side-body-process_text {
+  font-size: 20px;
+  margin-bottom: 550px;
+  margin-left: 60px;
+}
