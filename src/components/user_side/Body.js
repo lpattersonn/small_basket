@@ -41,21 +41,20 @@ export default function Body(props) {
       <div className="user_side-body-stats">
         <div className="user_side-body-stats_item">
           <img src={icQuick} alt="" />
-          <h2>Quick and<br/>convenient</h2>
+          <h2>Quick and<br />convenient</h2>
         </div>
         <div className="user_side-body-stats_item">
           <img src={icMask} alt="" />
-          <h2>Distanced<br/>Shopping</h2>
+          <h2>Distanced<br />Shopping</h2>
         </div>
         <div className="user_side-body-stats_item">
           <img src={icHelp} alt="" />
-          <h2>Help small<br/>businesses in their<br/>time of need</h2>
+          <h2>Help small<br />businesses in their<br />time of need</h2>
         </div>
       </div>
       <div className="user_side-body-downlaod">
-        <h2 className="user_side-body-downlaod_h2">download now</h2>
-        <button className="user_side-body-downlaod_button">
-        </button>
+        <button className="user_side-body-downlaod_button">Download</button>
+        <h2 className="user_side-body-downlaod_h2">the app</h2>
       </div>
     </section>
   );
