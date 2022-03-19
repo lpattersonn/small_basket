@@ -9,7 +9,7 @@ export default function Body(props) {
       <div className="user_side-body-div_2">
         <h2 className="user_side-body-h2"> Lorum Ipsum</h2>
         <button className="user_side-body-button">
-          <a href="/groceryside">Click Here</a>
+          <a href="/grocerside">Click Here</a>
         </button>
       </div>
       <div className="user_side-body-process">
