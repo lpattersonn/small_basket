@@ -3,9 +3,9 @@ import Header from "./Header.js";
 import Body from "./Body.js";
 import Footer from "./Footer.js";
 
-function App(props) {
+function UserSide(props) {
   return (
-    <div className="App">
+    <div className="user_side">
       <Nav />
       <Header />
       <Body />
@@ -14,4 +14,4 @@ function App(props) {
   );
 }
 
-export default App;
+export default UserSide;
