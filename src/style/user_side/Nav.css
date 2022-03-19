@@ -21,3 +21,8 @@
   font-size: 20px;
   font-family: raleway;
 }
+
+.user_side-nav-button {
+  color: white;
+  text-decoration: none;
+}

@@ -12,7 +12,7 @@ export default function Nav(props) {
         <ul>
           <li>About</li>
           <li>Download</li>
-          <li>Partner with us</li>
+          <li><a className="user_side-nav-button" href="/grocerside">Partner with us</a></li>
           <li>Support</li>
         </ul>
       </nav>
