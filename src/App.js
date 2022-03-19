@@ -6,8 +6,8 @@ import {
   Switch,
   Link,
 } from "react-router-dom";
-import UserSide from "./components/UserSide.js"
-import GrocerySide from "./components/grocer-side/GrocerySide.js";
+import UserSide from "./components/user_side/UserSide.js"
+import GrocerySide from "./components/grocery_side/GrocerySide.js";
 
 function App() {
   return (

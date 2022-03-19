@@ -1,4 +1,4 @@
-.user_side-nav {
+.nav {
   width: 100%;
   background-color: #C4C4C4;
   display: flex;
@@ -7,23 +7,23 @@
     align-items: center;
 }
 
-.user_side-nav-div_1 {
+.nav-div_1 {
   font-size: 18px;
   margin-left: 90px;
 }
 
-.user_side-nav-div_2 {
+.nav-div_2 {
   font-size: 18px;
   margin-right: 90px;
    
 }
 
-.user_side-nav-div_2 ul {
+.nav-div_2 ul {
   display: flex;
     flex-direction: row;
     align-items: center;
 }
 
-.user_side-nav-div_2 li {
+.nav-div_2 li {
   list-style: none;
 }

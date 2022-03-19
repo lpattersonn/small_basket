@@ -1,5 +1,5 @@
 import React from "react";
-import "../style/Body.css";
+import "../../style/user_side/Body.css";
 import { FaRegTrashAlt } from "react-icons/fa";
 import { FaMoneyBillAlt } from "react-icons/fa";
 
