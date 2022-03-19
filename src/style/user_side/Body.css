@@ -1,5 +1,5 @@
 /* body-div */
-.body-div_1 {
+.user_side-body-div_1 {
   background-color: white;
   width: 100%;
   display: flex;
@@ -10,7 +10,7 @@
   margin-bottom: 60px;
 }
 
-.body-div_2 {
+.user_side-body-div_2 {
   background-color: #c4c4c4;
   width: 80%;
   height: 103px;
@@ -20,7 +20,7 @@
   flex-direction: row;
 }
 
-.button-body {
+.user_side-body-button {
   background-color: #848484;
   border: none;
   margin-right: 30px;
@@ -29,12 +29,12 @@
   border-radius: 25px;
 }
 
-.h2 {
+.user_side-body-h2 {
   margin-left: 60px;
 }
 
 /* body-process */
-.body-process {
+.user_side-body-process {
   width: 80%;
   height: 650px;
   margin-top: 60px;
@@ -44,40 +44,40 @@
   align-items: center;
 }
 
-.body-process_image {
+.user_side-body-process_image {
   width: 452px;
   height: 434px;
   background-color: #848484;
   margin-right: 60px;
 }
 
-.body-process_text {
+.user_side-body-process_text {
   font-size: 20px;
   margin-bottom: 550px;
   margin-left: 60px;
 }
 
 /* body-whoweare */
-.body-whoweare_image {
+.user_side-body-whoweare_image {
   width: 452px;
   height: 434px;
   background-color: #848484;
   margin-left: 60px;
 }
 
-.body-whoweare_text {
+.user_side-body-whoweare_text {
   font-size: 20px;
   margin-bottom: 550px;
   margin-right: 290px;
 }
 
-.body-whoweare_text h2 {
+.user_side-body-whoweare_text h2 {
   width: 200px;
   margin-left: 20px;
 }
 
 /* body-stats */
-.body-stats {
+.user_side-body-stats {
   width: 80%;
   height: 423px;
   margin-top: 60px;
@@ -87,21 +87,21 @@
   align-items: center;
 }
 
-.body-stats_food {
+.user_side-body-stats_food {
   margin-left: 250px;
 }
 
-.body-stats_money {
+.user_side-body-stats_money {
   margin-right: 250px;
 }
 
-.Faicon {
+.user_side-body-faicon {
   width: 130px;
   height: 130px;
 }
 
 /* body-download */
-.body-downlaod {
+.user_side-body-downlaod {
   background-color: #c4c4c4;
   margin-top: 60px;
   width: 80%;
@@ -112,7 +112,7 @@
   flex-direction: row;
 }
 
-.body-downlaod_button {
+.user_side-body-downlaod_button {
   border: none;
   background-color: #848484;
   margin-left: 20px;
