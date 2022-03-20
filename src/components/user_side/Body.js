@@ -1,11 +1,9 @@
 import React from "react";
 import "../../style/user_side/Body.css";
-import { FaRegTrashAlt } from "react-icons/fa";
-import { FaMoneyBillAlt } from "react-icons/fa";
-import emoji from "../../images/how we roll emoji.png";
-import browseItems from "../../images/browse items.png";
+import emoji from "../../images/how_we_roll_emoji.png";
+import browseItems from "../../images/browse_items.png";
 import checkout from "../../images/checkout.png";
-import pickUpOrder from "../../images/pick-up order.png";
+import pickUpOrder from "../../images/pick-up_order.png";
 import icQuick from "../../images/ic_quick.png";
 import icMask from "../../images/ic_mask.png";
 import icHelp from "../../images/ic_help.png";

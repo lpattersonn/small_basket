@@ -1,5 +1,5 @@
 import React from "react";
-import logo from "../../images/logo white.svg";
+import logo from "../../images/logo_white.svg";
 import "../../style/user_side/Nav.css"
 
 export default function Nav(props) {

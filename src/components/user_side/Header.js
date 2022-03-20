@@ -1,8 +1,8 @@
 import React from "react";
 import "../../style/user_side/Header.css"
-import art from "../../images/banner art.svg";
-import googlePlay from "../../images/google play.png";
-import appStore from "../../images/app store.png";
+import art from "../../images/banner_art.svg";
+import googlePlay from "../../images/google_play.png";
+import appStore from "../../images/app_store.png";
 
 export default function Header(props) {
   return (
