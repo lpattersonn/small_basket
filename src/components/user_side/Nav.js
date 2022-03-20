@@ -3,7 +3,7 @@ import "../../style/user_side/Nav.css"
 
 export default function Nav(props) {
   return (
-    <section className="nav">
+    <section className="user_side-nav">
       <div className="user_side-nav-div_1">
         <h1>Logo</h1>
       </div>
