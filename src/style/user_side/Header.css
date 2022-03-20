@@ -1,40 +1,42 @@
 .user_side-header-div_1 {
+  color: white;
   width: 100%;
-  height: 550px;
-  background-color: #c4c4c4;
   display: flex;
+  margin-top: 39px;
   justify-content: space-between;
   flex-direction: row;
-  align-items: center;
 }
 .user_side-header-div_2 {
   margin-left: 90px;
 }
 
 .user_side-header-div_3 {
-  text-transform: uppercase;
-  font-size: 24px;
-  display: flex;
+  font-size: 20px;
   flex-direction: column;
 }
 
 .user_side-header-div_4 {
   margin-right: 90px;
-  width: 621px;
-  height: 421px;
-  background-color: #848484;
+  margin-bottom: 55px;
+  width: 464px;
+}
+
+.user_side-header-div_5 {
+  display: flex;
+  flex-direction: row;
+}
+
+.user_side-header-img_button {
+  height: 40px;
+  margin: 10px 5px 0px 0px;
 }
 
 .user_side-header-button {
   border: none;
-  background-color: #848484;
-  width: 232px;
-  height: 48px;
-  border-radius: 25px;
-}
-
-.user_side-header-div_2,
-.user_side-header-div_4 {
-  margin-top: -30px;
-  margin-bottom: -30px;
+  background-color: #588a60;
+  color: white;
+  font-size: 20px;
+  width: 167px;
+  height: 58px;
+  border-radius: 29px;
 }
