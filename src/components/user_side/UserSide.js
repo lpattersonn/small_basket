@@ -12,7 +12,6 @@ function UserSide(props) {
         style={{
           backgroundImage: `url(${background})`,
           backgroundPosition: 'center',
-          backgroundRepeat: 'no-repeat',
           backgroundColor: "#79BD84",
         }}>
         <Nav />
