@@ -2,6 +2,7 @@
   display: flex;
   justify-content: space-between;
   flex-direction: row;
+  align-items: center;
 }
 
 .user_side-nav-logo {
@@ -10,25 +11,27 @@
   height: 61px;
 }
 
-.user_side-nav-nav {
-  margin: 59px 104px 0px 0px;
+.user_side-nav ul {
+  margin: 45px 104px 0px 0px;
+  display: flex;
+  justify-content: center;
 }
 
-.user_side-nav-nav ul li {
+.user_side-nav ul li {
   display: inline-block;
   padding-left: 20px;
   padding-right: 20px;
   padding-top: 14px;
   padding-bottom: 14px;
   color: white;
-  font-family: 'Rubik';
+  font-family: "Rubik";
   font-style: normal;
   font-weight: 700;
   font-size: 18px;
 }
 
-.user_side-nav-nav ul li:hover {
-  background-color: #273D2B;
+.user_side-nav ul li:hover {
+  background-color: #273d2b;
   border-radius: 22px;
 }
 
