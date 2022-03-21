@@ -1,12 +1,11 @@
 /* body-div */
 .user_side-body-div_1 {
-  background-color: white;
   width: 100%;
   display: flex;
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  margin-top: 60px;
+  padding-top: 60px;
 }
 
 .user_side-body-h1 {
@@ -42,6 +41,7 @@
 
 /* body-process */
 .user_side-body-process {
+  background-color: white;
   padding-top: 40px;
   padding-left: 50px;
   width: 80%;
@@ -66,6 +66,7 @@
 
 /* body-stats */
 .user_side-body-stats {
+  background-color: white;
   width: 1110px;
   color: #588A60;
   padding-top: 40px;
