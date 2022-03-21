@@ -21,7 +21,7 @@ function UserSide(props) {
       </div>
       <div style={{
         backgroundImage: `url(${bodyBackground1}), url(${bodyBackground2})`,
-        backgroundPosition: "right top 10px, left bottom 542px",
+        backgroundPosition: "right top 30px, left bottom 542px",
         backgroundSize: "880px, 864px",
         backgroundRepeat: 'no-repeat, no-repeat'
       }} >
