@@ -1,5 +1,8 @@
 import React from "react";
 import "../../style/grocer_side/Body.css";
+import number1 from "../../images/number_1.svg";
+import number2 from "../../images/number_2.svg";
+import number3 from "../../images/number_3.svg";
 
 export default function Body(props) {
   return (
@@ -15,12 +18,18 @@ export default function Body(props) {
           <h2>Our solution</h2>
           <div>
             <p><b>Anyone can use our simple and easy to use app.</b></p>
-            <p className="grocer_side-body-process_text_medium">Adding items to your store.</p>
-            <p className="grocer_side-body-process_text_light">Simply take pictures of your inventory, add the quantity and you're off to the races!</p>
-            <p className="grocer_side-body-process_text_medium">Prepare for pickup</p>
-            <p className="grocer_side-body-process_text_light">Take a look at all your orders within the app and prepare for customer pick-up.</p>
-            <p className="grocer_side-body-process_text_medium">Spread some smiles!</p>
-            <p className="grocer_side-body-process_text_light">Your customers can simply walk in, tell you their order code and then walk out with their order and a smile on their face!</p>
+            <div className="grocer_side-body-process_steps">
+              <img src={number1} alt="number 1 in a circle"/>
+              <p>Add items to your inventory and adjust quantity.</p>
+            </div>
+            <div className="grocer_side-body-process_steps">
+              <img src={number2} alt="number 2 in a circle"/>
+              <p>Prepare orders for pick-up.</p>
+            </div>
+            <div className="grocer_side-body-process_steps">
+              <img src={number3} alt="number 3 in a circle"/>
+              <p>Hand order over to customer/delivery courier.</p>
+            </div>
           </div>
         </div>
       </div>

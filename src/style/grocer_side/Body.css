@@ -34,18 +34,16 @@
   min-width: 220px;
 }
 
-.grocer_side-body-process_text_medium{
-  font-weight: normal;
-}
-
-.grocer_side-body-process_text_light{
-  font-weight: lighter;
-}
-
 .grocer_side-body-process_text p{
   font-size: 24px;
+  font-weight: lighter;
   color: black;
-  margin-right: 12%;
+}
+
+.grocer_side-body-process_steps {
+  display: flex;
+  flex-direction: row;
+  gap: 22px;
 }
 
 .grocer_side-body-partner_text {
@@ -65,7 +63,7 @@
 
 .grocer_side-partner-button {
   border: none;
-  background-color: #588a60;
+  background-color: #FCBA06;
   color: white;
   font-size: 20px;
   width: 167px;
