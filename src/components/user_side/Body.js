@@ -13,7 +13,7 @@ export default function Body(props) {
     <section className="user_side-body-div_1">
       <div className="user_side-body-div_3" />
       <div className="user_side-body-div_2">
-        <h1 className="user_side-body-h1">How we roll</h1>
+        <div className="user_side-body-div_2_text">How we roll</div>
         <img className="user_side-body-emoji" src={emoji} alt="" />
       </div>
       <div className="user_side-body-process">

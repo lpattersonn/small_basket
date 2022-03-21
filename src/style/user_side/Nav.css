@@ -5,21 +5,31 @@
 }
 
 .user_side-nav-logo {
-  padding: 42px 10px 10px 78px;
+  padding: 41px 10px 10px 77px;
   width: 174px;
   height: 61px;
 }
 
 .user_side-nav-nav {
-  padding: 32px 78px 10px 10px;
+  margin: 59px 104px 0px 0px;
 }
 
 .user_side-nav-nav ul li {
   display: inline-block;
-  padding: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 14px;
+  padding-bottom: 14px;
   color: white;
-  font-size: 20px;
-  font-family: raleway;
+  font-family: 'Rubik';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+}
+
+.user_side-nav-nav ul li:hover {
+  background-color: #273D2B;
+  border-radius: 22px;
 }
 
 .user_side-nav-button {

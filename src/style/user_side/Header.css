@@ -2,12 +2,11 @@
   color: white;
   width: 100%;
   display: flex;
-  margin-top: 39px;
   justify-content: space-between;
   flex-direction: row;
 }
 .user_side-header-div_2 {
-  margin-left: 90px;
+  margin-left: 77px;
 }
 
 .user_side-header-div_3 {
@@ -16,8 +15,8 @@
 }
 
 .user_side-header-div_4 {
-  margin-right: 90px;
-  margin-bottom: 55px;
+  margin-right: 124px;
+  margin-bottom: 73px;
   width: 464px;
 }
 
@@ -27,8 +26,8 @@
 }
 
 .user_side-header-img_button {
-  height: 40px;
-  margin: 10px 5px 0px 0px;
+  height: 34px;
+  margin: 10px 20px 0px 0px;
 }
 
 .user_side-header-button {
