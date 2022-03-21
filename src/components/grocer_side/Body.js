@@ -10,7 +10,7 @@ export default function Body(props) {
       <div className="grocer_side-body-process">
         <div className="grocer_side-body-process_text">
           <h2>Who we are</h2>
-          <p className="grocer_side-body-process_text_light">We're a small company with a big goal. COVID-19 has hit the small guys the hardest and made keeping a business afloat in this time is hard. Larger businesses can move to an online platform to reach their customers event at home. But what about the small guys? We want to provide you with a simple and affordable solution that will increase revenue by reaching your loyal customers anywhere at any time with our solution.</p>
+          <p className="grocer_side-body-process_text_light">We're a small company with a big goal. COVID-19 has hit the small guys the hardest and made keeping a business afloat in this time hard. Larger businesses can move to an online platform to reach their customers even at home, but what about the small guys? We want to provide you with a simple and affordable solution that will increase revenue by reaching your loyal customers anywhere at any time with our solution.</p>
         </div>
       </div>
       <div className="grocer_side-body-process">
