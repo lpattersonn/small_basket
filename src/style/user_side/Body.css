@@ -1,26 +1,35 @@
 /* body-div */
 .user_side-body-div_1 {
-  background-color: white;
   width: 100%;
   display: flex;
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  margin-top: 60px;
 }
 
-.user_side-body-h1 {
-  font-size: 48px;
+.user_side-body-div_3 {
+  width: 100%;
+  height: 20px;
+  background-color: #D3ECD7;
 }
 
 .user_side-body-div_2 {
+  margin-top: 54px;
   height: 103px;
   display: flex;
   align-items: center;
   flex-direction: row;
 }
 
+.user_side-body-div_2_text {
+  font-family: 'Rubik';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 48px;
+}
+
 .user_side-body-emoji {
+  margin-left: 10px;
   height: 42px;
   display: flex;
   align-items: center;
@@ -42,6 +51,7 @@
 
 /* body-process */
 .user_side-body-process {
+  background-color: white;
   padding-top: 40px;
   padding-left: 50px;
   width: 80%;
@@ -66,11 +76,11 @@
 
 /* body-stats */
 .user_side-body-stats {
+  background-color: white;
   width: 1110px;
   color: #588A60;
   padding-top: 40px;
   padding-left: 50px;
-  width: 60%;
   margin-top: 60px;
   display: flex;
   justify-content: space-between;
@@ -97,31 +107,68 @@
   font-size: 24px;
 }
 
+/* body-subscription */
+.user_side-body-subscription {
+  background-color: white;
+  padding-top: 40px;
+  padding-left: 50px;
+  width: 80%;
+  margin-top: 60px;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  border-radius: 33px;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.user_side-body-subscription_text_1 {
+  color: #588A60;
+  font-family: 'Rubik';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 36px;
+  margin-top: 36px;
+}
+
+.user_side-body-subscription_text_2 {
+  margin-top: 26px;
+  margin-bottom: 37px;
+  font-family: 'Rubik';
+  font-style: normal;
+  font-weight: 300;
+  font-size: 24px;
+}
+
 /* body-download */
 .user_side-body-downlaod {
   background-color: #79BD84;
   color: white;
   margin-top: 60px;
   width: 100%;
-  height: 188px;
+  height: 274px;
   display: flex;
-  justify-content: center;
   align-items: center;
-  flex-direction: row;
+  flex-direction: column;
 }
 
-.user_side-body-downlaod_h2 {
-  margin-left: 19px;
-  font-size: 36px;
+.user_side-body-downlaod_discount_text {
+  font-size: 48px;
+  font-family: 'Rubik';
+  font-style: normal;
+  font-weight: 700;
+  margin-top: 40px;
+  margin-bottom: 42px;
 }
 
 .user_side-body-downlaod_button {
   height: 108px;
   width: 312px;
+  font-family: 'Rubik';
+  font-style: normal;
+  font-weight: 500;
   font-size: 36px;
   color: white;
   border: none;
-  background-color: #588A60;
-  margin-left: 20px;
+  background-color: #FCBA06;
   border-radius: 125px;
 }

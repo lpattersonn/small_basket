@@ -11,8 +11,9 @@ import icHelp from "../../images/ic_help.png";
 export default function Body(props) {
   return (
     <section className="user_side-body-div_1">
+      <div className="user_side-body-div_3" />
       <div className="user_side-body-div_2">
-        <h1 className="user_side-body-h1">How we roll</h1>
+        <div className="user_side-body-div_2_text">How we roll</div>
         <img className="user_side-body-emoji" src={emoji} alt="" />
       </div>
       <div className="user_side-body-process">
@@ -50,9 +51,13 @@ export default function Body(props) {
           <h2>Help small<br />businesses in their<br />time of need</h2>
         </div>
       </div>
+      <div className="user_side-body-subscription">
+        <div className="user_side-body-subscription_text_1">Don’t pay delivery fees with BasketPass!</div>
+        <div className="user_side-body-subscription_text_2">Starting at $9.99/mo.</div>
+      </div>
       <div className="user_side-body-downlaod">
+        <div className="user_side-body-downlaod_discount_text">Get $10 off your first order</div>
         <button className="user_side-body-downlaod_button">Download</button>
-        <h2 className="user_side-body-downlaod_h2">the app</h2>
       </div>
     </section>
   );

@@ -2,7 +2,9 @@ import Nav from "./Nav.js";
 import Header from "./Header.js";
 import Body from "./Body.js";
 import Footer from "./Footer.js";
-import background from "../../images/banner_background.svg";
+import topBackground from "../../images/banner_background.svg";
+import bodyBackground1 from "../../images/background_blob_1.svg";
+import bodyBackground2 from "../../images/background_blob_2.svg";
 import "../../style/user_side/UserSide.css"
 
 function UserSide(props) {
@@ -10,14 +12,21 @@ function UserSide(props) {
     <div className="user_side">
       <div className="user_side-top"
         style={{
-          backgroundImage: `url(${background})`,
+          backgroundImage: `url(${topBackground})`,
           backgroundPosition: 'center',
           backgroundColor: "#79BD84",
         }}>
         <Nav />
         <Header />
       </div>
-      <Body />
+      <div style={{
+        backgroundImage: `url(${bodyBackground1}), url(${bodyBackground2})`,
+        backgroundPosition: "right top 30px, left bottom 542px",
+        backgroundSize: "880px, 864px",
+        backgroundRepeat: 'no-repeat, no-repeat'
+      }} >
+        <Body />
+      </div>
       <Footer />
     </div>
   );
