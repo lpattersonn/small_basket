@@ -1,4 +1,5 @@
 import "./App.css";
+import "@fontsource/rubik";
 import {
   BrowserRouter as Router,
   Routes,
