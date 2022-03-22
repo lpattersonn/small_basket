@@ -2,7 +2,7 @@
 
 ## About The Project
 
-Small Basket is an application that allows users to shop from, and support local grocery stores. Users can purchase their grocery items online and have thier orders delivered to their homes.
+Small Basket is an application that allows users to shop from, and support local grocery stores. Users can purchase their grocery items online and have thier orders delivered.
 
 ![app home page](https://github.com/lpattersonn/small_basket/blob/master/src/images/smallbasket_homepage.png?raw=true)
 
