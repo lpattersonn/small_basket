@@ -9,7 +9,7 @@ export default function Header(props) {
     <section className="user_side-header-div_1">
       <div className="user_side-header-div_2">
         <div className="user_side-header-div_3">
-          <h1>Save money? </h1>
+          <h1>Save a trip</h1>
           <h1>Save small business</h1>
           <p>We give small businesses an online platform,<br/> and our users an easy way to support them.</p>
         </div>
