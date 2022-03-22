@@ -17,9 +17,6 @@ export default function Nav(props) {
           <li>Download</li>
           <li>
             <Link to="/">Become a user</Link>
-            {/* <a href="/">
-              Become a user
-            </a> */}
           </li>
           <li>Support</li>
         </ul>
