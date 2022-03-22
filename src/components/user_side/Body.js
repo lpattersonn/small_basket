@@ -10,6 +10,8 @@ import pickupImage from "../../images/pickup-delivery-mockup.png";
 import icQuick from "../../images/ic_quick.png";
 import icMask from "../../images/ic_mask.png";
 import icHelp from "../../images/ic_help.png";
+import { ImQuotesLeft } from "react-icons/im";
+import { IoStarSharp } from "react-icons/io5";
 
 export default function Body(props) {
   return (
@@ -102,6 +104,60 @@ export default function Body(props) {
         </div>
         <div className="user_side-body-subscription_text_2">
           Starting at $9.99/mo.
+        </div>
+      </div>
+      <div className="user_side-body-testimonial">
+        <div className="user_side-body-testimonial_div">
+          <img src="" alt="" />
+          <ImQuotesLeft className="user_side-body-testimonial_quote_icon" />
+          <div className="user_side-body-testimonial_stars">
+            <IoStarSharp className="user_side-body-testimonial_stars_stars" />
+            <IoStarSharp className="user_side-body-testimonial_stars_stars" />
+            <IoStarSharp className="user_side-body-testimonial_stars_stars" />
+            <IoStarSharp className="user_side-body-testimonial_stars_stars" />
+            <IoStarSharp className="user_side-body-testimonial_stars_stars" />
+          </div>
+          <div className="user_side-body-testimonial_text">
+            Amazing! There’s a korean grocery store that’s my absolute FAVE, but
+            it’s so far away that I usually don’t have time to go shop there.
+            Small basket makes it so easy and convenient and it saves me the
+            trip!
+          </div>
+          <h2>Cassidy</h2>
+        </div>
+        <div className="user_side-body-testimonial_div">
+          <img src="" alt="" />
+          <ImQuotesLeft className="user_side-body-testimonial_quote_icon" />
+          <div className="user_side-body-testimonial_stars">
+            <IoStarSharp className="user_side-body-testimonial_stars_stars" />
+            <IoStarSharp className="user_side-body-testimonial_stars_stars" />
+            <IoStarSharp className="user_side-body-testimonial_stars_stars" />
+            <IoStarSharp className="user_side-body-testimonial_stars_stars" />
+            <IoStarSharp className="user_side-body-testimonial_stars_stars" />
+          </div>
+          <div className="user_side-body-testimonial_text">
+            Just got another delivery from my favorite local organic foods shop
+            - I couldn’t be happier! I’m so excited to use this app to support
+            them and I’ve been telling all my friends about it too :)
+          </div>
+          <h2>Brian</h2>
+        </div>
+        <div className="user_side-body-testimonial_div">
+          <img src="" alt="" />
+          <ImQuotesLeft className="user_side-body-testimonial_quote_icon" />
+          <div className="user_side-body-testimonial_stars">
+            <IoStarSharp className="user_side-body-testimonial_stars_stars" />
+            <IoStarSharp className="user_side-body-testimonial_stars_stars" />
+            <IoStarSharp className="user_side-body-testimonial_stars_stars" />
+            <IoStarSharp className="user_side-body-testimonial_stars_stars" />
+            <IoStarSharp className="user_side-body-testimonial_stars_stars" />
+          </div>
+          <div className="user_side-body-testimonial_text">
+            My mom’s always making us food that reminds me of home. But to get
+            the right ingredients she has to go so far for the closest Indian
+            grocery store. I’m so glad I can use small basket.
+          </div>
+          <h2>Kavya</h2>
         </div>
       </div>
       <div className="user_side-body-downlaod">
