@@ -4,7 +4,7 @@
 
 Small Basket is an application that allows users to shop from and support local grocery stores. Users can purchase their groceries online and have them delivered to their homes.
 
-![app home page](https://github.com/lpattersonn/student_profile/blob/master/public/home.png?raw=true)
+![app home page](https://github.com/lpattersonn/small_basket/blob/master/src/images/smallbasket_homepage.png?raw=true)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -39,7 +39,9 @@ Small Basket is an application that allows users to shop from and support local 
 ## Contact
 
 Caroline Zhang - [@caroline-z21](https://www.linkedin.com/in/caroline-z21/)
+
 Serhii Sharipov - [@serhii-sharipov](https://www.linkedin.com/in/serhii-sharipov/)
+
 Leshan Patterson - [@lpattersonn](https://ca.linkedin.com/in/lpattersonn)
 
 Project Link: [https://github.com/lpattersonn/small_basket.git](https://github.com/lpattersonn/small_basket.git)
