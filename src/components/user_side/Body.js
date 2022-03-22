@@ -66,7 +66,7 @@ export default function Body(props) {
             src={pickupImage}
             className="user_side-main-image"
             alt="Small Poccket pickup Example"
-            style={{ transform: "scale(1.45)", "margin-bottom": "20px" }}
+            style={{ "width": "420px", "height": "400px", "margin": "5px -20px 0px 0px"}}
           />
         </div>
       </div>

@@ -1,6 +1,7 @@
 import React from "react";
 import "../../style/grocer_side/Nav.css";
 import logo from "../../images/logo.png";
+import { Link } from "react-router-dom";
 
 export default function Nav(props) {
   return (
@@ -15,9 +16,10 @@ export default function Nav(props) {
           <li>About</li>
           <li>Download</li>
           <li>
-            <a href="/">
+          <Link to="/">Become a user</Link>
+            {/* <a href="/">
               Become a user
-            </a>
+            </a> */}
           </li>
           <li>Support</li>
         </ul>
