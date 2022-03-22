@@ -2,9 +2,9 @@
   width: 100%;
   background-color: white;
   display: flex;
-    justify-content: space-between;
-    flex-direction: row;
-    align-items: center;
+  justify-content: space-between;
+  flex-direction: row;
+  align-items: center;
 }
 
 .grocer_side-nav-logo {
@@ -14,14 +14,14 @@
 }
 
 .grocer_side-nav-div_2 {
-  padding: 32px 78px 10px 10px;
-  color: #79BD84;
+  padding: 30px 78px 10px 10px;
+  color: #79bd84;
 }
 
 .grocer_side-nav-div_2 ul {
   display: flex;
-    flex-direction: row;
-    align-items: center;
+  flex-direction: row;
+  align-items: center;
 }
 
 .grocer_side-nav-div_2 li {
@@ -29,4 +29,22 @@
   padding: 10px;
   font-size: 18px;
   list-style: none;
+}
+
+.grocer_side-nav ul li:hover {
+  background-color: #273d2b;
+  color: white;
+  border-radius: 22px;
+}
+
+
+.grocer_side-nav-div_2 ul a {
+  text-decoration: none;
+  color: #79BD84;
+}
+
+.grocer_side-nav-div_2 ul a:hover {
+  background-color: #273d2b;
+  color: white;
+  border-radius: 22px;
 }

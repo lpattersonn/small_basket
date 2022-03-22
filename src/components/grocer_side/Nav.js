@@ -5,19 +5,17 @@ import logo from "../../images/logo.png";
 export default function Nav(props) {
   return (
     <section className="grocer_side-nav">
-      <div className="grocer_side-nav-div_1">
-        <img
-          className="grocer_side-nav-logo"
-          src={logo}
-          alt="small basket logo"
-        />
-      </div>
+      <img
+        className="grocer_side-nav-logo"
+        src={logo}
+        alt="small basket logo"
+      />
       <div className="grocer_side-nav-div_2">
         <ul>
           <li>About</li>
           <li>Download</li>
           <li>
-            <a style={{ "text-decoration": "none", color: "#79BD84" }} href="/">
+            <a href="/">
               Become a user
             </a>
           </li>
