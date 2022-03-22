@@ -108,7 +108,6 @@ export default function Body(props) {
       </div>
       <div className="user_side-body-testimonial">
         <div className="user_side-body-testimonial_div">
-          <img src="" alt="" />
           <ImQuotesLeft className="user_side-body-testimonial_quote_icon" />
           <div className="user_side-body-testimonial_stars">
             <IoStarSharp className="user_side-body-testimonial_stars_stars" />
@@ -126,7 +125,6 @@ export default function Body(props) {
           <h2>Cassidy</h2>
         </div>
         <div className="user_side-body-testimonial_div">
-          <img src="" alt="" />
           <ImQuotesLeft className="user_side-body-testimonial_quote_icon" />
           <div className="user_side-body-testimonial_stars">
             <IoStarSharp className="user_side-body-testimonial_stars_stars" />
@@ -138,12 +136,11 @@ export default function Body(props) {
           <div className="user_side-body-testimonial_text">
             Just got another delivery from my favorite local organic foods shop
             - I couldn’t be happier! I’m so excited to use this app to support
-            them and I’ve been telling all my friends about it too :)
+            them and I’ve been telling all my friends about it too. 😀
           </div>
           <h2>Brian</h2>
         </div>
         <div className="user_side-body-testimonial_div">
-          <img src="" alt="" />
           <ImQuotesLeft className="user_side-body-testimonial_quote_icon" />
           <div className="user_side-body-testimonial_stars">
             <IoStarSharp className="user_side-body-testimonial_stars_stars" />

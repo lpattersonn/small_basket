@@ -71,3 +71,46 @@
   border-radius: 29px;
 }
 
+/* Testimonial */
+.grocer_side-body-testimonial {
+  width: 93%;
+  height: 448px;
+  margin-top: 60px;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+}
+
+.grocer_side-body-testimonial_div {
+  border-radius: 33px;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  background-color: white;
+  width: 48%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.grocer_side-body-testimonial_quote_icon {
+  width: 60px;
+  height: 60px;
+  margin: 3px 0px 0px 30px;
+  color: #588A60;
+}
+
+.grocer_side-body-testimonial_text {
+  margin: 25px 15px -30px 30px;
+  font-family: "Rubik";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 24px;
+}
+
+.grocer_side-body-testimonial h2 {
+  margin: 80px 15px 10px 30px;
+  color: #588A60;
+  font-family: "Rubik";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+}
