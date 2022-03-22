@@ -40,6 +40,8 @@ Small Basket is an application that allows users to shop from, and support local
 
 Caroline Zhang - [@caroline-z21](https://www.linkedin.com/in/caroline-z21/)
 
+Amanda Ofosu - [@amanda-ofosu-63ab9b185](https://www.linkedin.com/in/amanda-ofosu-63ab9b185/)
+
 Serhii Sharipov - [@serhii-sharipov](https://www.linkedin.com/in/serhii-sharipov/)
 
 Hassaan Khan - [@hsnkhann](https://www.linkedin.com/in/hsnkhann/)
