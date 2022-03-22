@@ -42,6 +42,8 @@ Caroline Zhang - [@caroline-z21](https://www.linkedin.com/in/caroline-z21/)
 
 Serhii Sharipov - [@serhii-sharipov](https://www.linkedin.com/in/serhii-sharipov/)
 
+Hassaan Khan - [@hsnkhann](https://www.linkedin.com/in/hsnkhann/)
+
 Leshan Patterson - [@lpattersonn](https://ca.linkedin.com/in/lpattersonn)
 
 Project Link: [https://github.com/lpattersonn/small_basket.git](https://github.com/lpattersonn/small_basket.git)
