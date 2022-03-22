@@ -28,13 +28,13 @@
   gap: 143px;
 }
 
-.grocer_side-body-process_text h2{
+.grocer_side-body-process_text h2 {
   font-size: 36px;
-  color: #588A60;
+  color: #588a60;
   min-width: 220px;
 }
 
-.grocer_side-body-process_text p{
+.grocer_side-body-process_text p {
   font-size: 24px;
   font-weight: lighter;
   color: black;
@@ -50,20 +50,20 @@
   margin-left: 60px;
 }
 
-.grocer_side-body-partner_text h2{
+.grocer_side-body-partner_text h2 {
   font-size: 36px;
   margin-bottom: 0px;
-  color: #588A60;
+  color: #588a60;
 }
 
-.grocer_side-body-partner_text p{
+.grocer_side-body-partner_text p {
   font-size: 24px;
   color: black;
 }
 
 .grocer_side-partner-button {
   border: none;
-  background-color: #FCBA06;
+  background-color: #fcba06;
   color: white;
   font-size: 20px;
   width: 167px;
@@ -73,12 +73,13 @@
 
 /* Testimonial */
 .grocer_side-body-testimonial {
-  width: 93%;
+  width: 89%;
+  padding:0px 84px 0px 84px;
   height: 448px;
   margin-top: 60px;
   display: flex;
-  justify-content: space-between;
   flex-direction: row;
+  justify-content: space-between;
 }
 
 .grocer_side-body-testimonial_div {
@@ -95,7 +96,7 @@
   width: 60px;
   height: 60px;
   margin: 3px 0px 0px 30px;
-  color: #588A60;
+  color: #588a60;
 }
 
 .grocer_side-body-testimonial_text {
@@ -108,7 +109,7 @@
 
 .grocer_side-body-testimonial h2 {
   margin: 80px 15px 10px 30px;
-  color: #588A60;
+  color: #588a60;
   font-family: "Rubik";
   font-style: normal;
   font-weight: 700;
