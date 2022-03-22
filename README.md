@@ -1,4 +1,4 @@
-# Small Basket
+# Smallbasket
 
 ## About The Project
 
