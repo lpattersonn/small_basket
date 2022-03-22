@@ -16,7 +16,7 @@ export default function Nav(props) {
           <li>About</li>
           <li>Download</li>
           <li>
-          <Link to="/">Become a user</Link>
+            <Link to="/">Become a user</Link>
             {/* <a href="/">
               Become a user
             </a> */}
